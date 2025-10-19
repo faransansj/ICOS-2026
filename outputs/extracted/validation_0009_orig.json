@@ -1,0 +1,22 @@
+{
+  "image_path": "data/validation/validation_0009_orig.png",
+  "total_highlights": 1,
+  "highlights_by_color": {
+    "yellow": 0,
+    "green": 0,
+    "pink": 1
+  },
+  "results": [
+    {
+      "text": "OpenCV는",
+      "color": "pink",
+      "confidence": 86.0,
+      "bbox": {
+        "x": 50,
+        "y": 48,
+        "width": 96,
+        "height": 24
+      }
+    }
+  ]
+}

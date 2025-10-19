@@ -1,0 +1,44 @@
+======================================================================
+HIGHLIGHT TEXT EXTRACTION SUMMARY
+======================================================================
+
+Image: data/validation/validation_0147_orig.png
+Total Highlights: 4
+
+Highlights by Color:
+  Yellow: 0
+  Green: 1
+  Pink: 3
+
+======================================================================
+EXTRACTED TEXT BY COLOR
+======================================================================
+
+GREEN HIGHLIGHTS (1):
+  1. 기술은
+
+PINK HIGHLIGHTS (3):
+  1. 이미지에서
+  2. 문서
+  3. OCR
+
+======================================================================
+DETAILED RESULTS
+======================================================================
+
+1. [GREEN] "기술은"
+   Confidence: 90.3%
+   Location: x=103, y=49, w=66, h=23
+
+2. [PINK] "이미지에서"
+   Confidence: 92.8%
+   Location: x=228, y=48, w=109, h=26
+
+3. [PINK] "문서"
+   Confidence: 95.0%
+   Location: x=174, y=48, w=49, h=25
+
+4. [PINK] "OCR"
+   Confidence: 96.0%
+   Location: x=47, y=47, w=51, h=25
+

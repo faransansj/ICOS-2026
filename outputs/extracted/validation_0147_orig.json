@@ -1,0 +1,55 @@
+{
+  "image_path": "data/validation/validation_0147_orig.png",
+  "total_highlights": 4,
+  "highlights_by_color": {
+    "yellow": 0,
+    "green": 1,
+    "pink": 3
+  },
+  "results": [
+    {
+      "text": "기술은",
+      "color": "green",
+      "confidence": 90.33,
+      "bbox": {
+        "x": 103,
+        "y": 49,
+        "width": 66,
+        "height": 23
+      }
+    },
+    {
+      "text": "이미지에서",
+      "color": "pink",
+      "confidence": 92.8,
+      "bbox": {
+        "x": 228,
+        "y": 48,
+        "width": 109,
+        "height": 26
+      }
+    },
+    {
+      "text": "문서",
+      "color": "pink",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 174,
+        "y": 48,
+        "width": 49,
+        "height": 25
+      }
+    },
+    {
+      "text": "OCR",
+      "color": "pink",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 47,
+        "y": 47,
+        "width": 51,
+        "height": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image_path": "data/validation/validation_0144_orig.png",
+  "total_highlights": 2,
+  "highlights_by_color": {
+    "yellow": 2,
+    "green": 0,
+    "pink": 0
+  },
+  "results": [
+    {
+      "text": "컴퓨터",
+      "color": "yellow",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 50,
+        "y": 49,
+        "width": 60,
+        "height": 22
+      }
+    },
+    {
+      "text": "비전은",
+      "color": "yellow",
+      "confidence": 89.33,
+      "bbox": {
+        "x": 116,
+        "y": 48,
+        "width": 60,
+        "height": 22
+      }
+    }
+  ]
+}

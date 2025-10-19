@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/synthetic/*.jpg
+data/synthetic/*.png
+data/validation/*.jpg
+data/validation/*.png
+data/test/*.jpg
+data/test/*.png
+
+# Outputs
+outputs/*.jpg
+outputs/*.png
+outputs/*.json
+outputs/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
